@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <div id="particles-js"></div>
+    <div class="container">
+
+        <h1 class="question">No Questions currently</h1>
+        <h3>Options: </h3>
+
+        <div class="options">
+        </div>
+
+        <div class="correct-ans" style="color: white;"></div>
+        
+        <div class="move">
+            <button class="prev">&#8249;</button>
+            <button class="next">&#8250;</button>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+
+    <!-- for particleJS background -->
+    <script src="particles.js"></script>
+
+    <script>
+        particlesJS.load('particles-js', 'background.json', function () {
+            console.log('callback - particles.js config loaded');
+        });
+    </script>
+
+</body>
+
+</html>

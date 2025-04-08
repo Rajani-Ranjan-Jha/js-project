@@ -1,0 +1,142 @@
+[
+  {
+    "question_id": 1,
+    "question": "What was the name of the exoskeleton Tony Stark used to subdue Hulk in Age of Ultron?",
+    "options": ["Iron Destroyer", "Hulkbuster", "Veronica", "Mark XLIV"],
+    "correct_answer": "Veronica (Hulkbuster containment system)",
+    "movie": "Avengers: Age of Ultron"
+  },
+  {
+    "question_id": 2,
+    "question": "What AI was integrated into Peter Parker's suit in Spider-Man: Homecoming?",
+    "options": ["Friday", "Karen", "Edith", "Baby Monitor Protocol"],
+    "correct_answer": "Karen (voiced by Jennifer Connelly)",
+    "movie": "Spider-Man: Homecoming"
+  },
+  {
+    "question_id": 3,
+    "question": "What planet did Thanos retire to after the Snap in Avengers: Infinity War?",
+    "options": ["Titan", "Vormir", "The Garden", "Sanctuary II"],
+    "correct_answer": "The Garden (officially designated Planet 0259-S)",
+    "movie": "Avengers: Infinity War"
+  },
+  {
+    "question_id": 4,
+    "question": "What song plays during Thor's gladiatorial entrance in Ragnarok?",
+    "options": ["Thunderstruck", "Back in Black", "Immigrant Song", "Kashmir"],
+    "correct_answer": "Immigrant Song by Led Zeppelin",
+    "movie": "Thor: Ragnarok"
+  },
+  {
+    "question_id": 5,
+    "question": "What coordinates did Nebula give to locate the Soul Stone on Vormir?",
+    "options": ["18-24-36-48", "23-17-36-46", "42-16-35-47", "11-22-33-44"],
+    "correct_answer": "23-17-36-46 (from Tony's holographic map in Endgame)",
+    "movie": "Avengers: Endgame"
+  },
+  {
+    "question_id": 6,
+    "question": "What Kree symbol was tattooed on Yondu's face as punishment?",
+    "options": ["Betrayal mark", "Broken crest", "Exile rune", "Ravager symbol"],
+    "correct_answer": "A broken crest (branding him a traitor to the Kree Empire)",
+    "movie": "Guardians of the Galaxy Vol. 2"
+  },
+  {
+    "question_id": 7,
+    "question": "What fictional metal alloy did Howard Stark name when describing Captain America's shield?",
+    "options": ["Adamantium", "Vibranium", "Uru", "Carbonadium"],
+    "correct_answer": "Vibranium (though in comics, it's proto-adamantium)",
+    "movie": "Captain America: The First Avenger"
+  },
+  {
+    "question_id": 8,
+    "question": "What is the street address of the New York Sanctum Sanctorum?",
+    "options": ["177A Bleecker Street", "890 Fifth Avenue", "10880 Malibu Point", "200 Park Avenue"],
+    "correct_answer": "177A Bleecker Street",
+    "movie": "Doctor Strange"
+  },
+  {
+    "question_id": 9,
+    "question": "What was the name of the boy Tony Stark befriended in Iron Man 3?",
+    "options": ["Peter Parker", "Harley Keener", "Charlie Spencer", "Cooper Barton"],
+    "correct_answer": "Harley Keener (played by Ty Simpkins)",
+    "movie": "Iron Man 3"
+  },
+  {
+    "question_id": 10,
+    "question": "What was the official code name for the Sokovia Accords legislation?",
+    "options": ["The Enhanced Individual Registration Act", "The Sokovia Accords", "The Superhuman Registration Act", "The United Nations Superhero Treaty"],
+    "correct_answer": "The Sokovia Accords: Framework for the Registration and Deployment of Enhanced Individuals",
+    "movie": "Captain America: Civil War"
+  },
+  {
+    "question_id": 11,
+    "question": "How many floors did Stark Tower (later Avengers Tower) have?",
+    "options": ["55", "78", "93", "102"],
+    "correct_answer": "93 floors (mentioned in Age of Ultron)",
+    "movie": "Avengers: Age of Ultron"
+  },
+  {
+    "question_id": 12,
+    "question": "What model designation did Ultron give his first physical body?",
+    "options": ["Prime", "Mark 1", "Ultron Genesis", "Prototype Alpha"],
+    "correct_answer": "Mark 1 (as seen in his debut scene)",
+    "movie": "Avengers: Age of Ultron"
+  },
+  {
+    "question_id": 13,
+    "question": "Which actors portrayed Loki, Thor, and Odin in the Asgardian play in Ragnarok?",
+    "options": ["Matt Damon, Sam Neill, Luke Hemsworth", "Tom Hiddleston, Chris Hemsworth, Anthony Hopkins", "Benedict Cumberbatch, Idris Elba, Jeff Goldblum", "Eddie Redmayne, Chris Evans, Morgan Freeman"],
+    "correct_answer": "Matt Damon (Loki), Sam Neill (Odin), Luke Hemsworth (Thor)",
+    "movie": "Thor: Ragnarok"
+  },
+  {
+    "question_id": 14,
+    "question": "Where did Tony Stark perform emergency surgery to remove his arc reactor in Iron Man 3?",
+    "options": ["Stark Tower", "Miami Beach Hospital", "Rose Hill, Tennessee", "His Malibu mansion"],
+    "correct_answer": "In a garage in Rose Hill, Tennessee (Harley's hometown)",
+    "movie": "Iron Man 3"
+  },
+  {
+    "question_id": 15,
+    "question": "What was the name of S.H.I.E.L.D.'s training academy where Daisy Johnson (Quake) studied?",
+    "options": ["The S.H.I.E.L.D. Academy of Science and Technology", "The Triskelion Training Facility", "The Operations Academy", "The Communications Academy"],
+    "correct_answer": "The S.H.I.E.L.D. Academy of Science and Technology",
+    "movie": "Agents of S.H.I.E.L.D."
+  },
+  {
+    "question_id": 16,
+    "question": "What was the code name for the mission to steal the Orb in Guardians of the Galaxy?",
+    "options": ["Operation Star-Lord", "The Xandar Heist", "The Dark Aster Heist", "The Morag Extraction"],
+    "correct_answer": "The Dark Aster Heist (referring to Ronan's ship)",
+    "movie": "Guardians of the Galaxy"
+  },
+  {
+    "question_id": 17,
+    "question": "What bar did Scott Lang visit to reconnect with Luis in Ant-Man?",
+    "options": ["The Quantum Lounge", "Tipsy McStagger's", "The Van Bar", "Baskin-Robbins"],
+    "correct_answer": "The Tipsy McStagger's (a dive bar in San Francisco)",
+    "movie": "Ant-Man"
+  },
+  {
+    "question_id": 18,
+    "question": "What was the name of the AI controlling the Iron Legion drones in Age of Ultron?",
+    "options": ["J.A.R.V.I.S.", "F.R.I.D.A.Y.", "Ultron", "E.D.I.T.H."],
+    "correct_answer": "J.A.R.V.I.S. (before Ultron corrupted them)",
+    "movie": "Avengers: Age of Ultron"
+  },
+  {
+    "question_id": 19,
+    "question": "What is the name of the mystical symbol on Doctor Strange's sash?",
+    "options": ["The Eye of Agamotto", "Seal of the Vishanti", "Mark of the Sorcerer Supreme", "The Astral Rune"],
+    "correct_answer": "The Seal of the Vishanti (a protective emblem)",
+    "movie": "Doctor Strange"
+  },
+  {
+    "question_id": 20,
+    "question": "What species is Groot's race classified as in the Nova Corps archives?",
+    "options": ["Arboreal Colossus", "Flora colossus", "Sentient Tree", "Xandarian Oak"],
+    "correct_answer": "Flora colossus (from Guardians of the Galaxy's end-credits scenes)",
+    "movie": "Guardians of the Galaxy"
+  }
+]

@@ -1,0 +1,85 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    width: 80vw;
+    height: 80vh;
+    /* border: 2px solid red; */
+    background-image: linear-gradient(to top right, yellow,green);
+    opacity: 0.88;
+    border-radius: 3rem;
+    /* margin: 3rem auto; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+
+
+
+#output {
+    height: 40px;
+    /* background-color: rgb(255, 255, 255); */
+    color: rgb(255, 0, 0);
+    text-align: center;
+    width: 90%;
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.container>button {
+    width: 200px;
+    border: none;
+    background-color: rgb(96, 156, 40);
+    font-size: large;
+    border-radius: 10px;
+    height: 40px;
+    transition: cursor 0.9s, background-color 0.9s, box-shadow 0.9s, transform 0.9s;
+
+}
+
+.container>button:hover {
+    cursor: pointer;
+    background-color: rgb(171, 218, 97);
+    box-shadow: 0px 0px 5px 3px rgb(44, 75, 3);
+    transform: scale(1.085);
+}
+.container>div{
+    /* border: 2px solid blue; */
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    place-content: center;
+    gap: 1rem;
+}
+.container>div>select,input{
+    width: 30%;
+    height: 1.9rem;
+    font-size: 1rem;
+    border-radius: 1.5rem;
+    padding: 0px 15px;
+    border: none;
+    text-align: center;
+
+}
+
+.container>div>select{
+    height: 2.0rem;
+    width: 35%;
+
+}
