@@ -85,7 +85,7 @@ header{
     transition: background-color 0.5s, trasform 0.5s;
 
 }
-@media screen and (max-width: 400px) {
+@media screen and (width <= 768px) {
     .container>div{
         flex-direction: column;
     }
