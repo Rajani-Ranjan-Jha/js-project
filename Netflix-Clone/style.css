@@ -82,7 +82,7 @@ nav {
     background-color: transparent;
     color: white;
     border-radius: 5px;
-    border: 1px solid white;
+    /* border: 1px solid white; */
     /* margin-right: 30px; */
     height: 40px;
     width: 130px;
@@ -303,7 +303,7 @@ nav span:nth-child(2) {
     width: min(1500px, 80%);
     height: 90%;
     /* margin: auto auto; */
-    border: 2px solid white;
+    /* border: 2px solid white; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -311,7 +311,7 @@ nav span:nth-child(2) {
 }
 
 .text {
-    border: 2px solid red;
+    /* border: 2px solid red; */
     display: flex;
     height: 50%;
     width: 50%;
@@ -326,7 +326,7 @@ nav span:nth-child(2) {
 }
 
 .video {
-    border: 2px solid rgb(0, 23, 128);
+    /* border: 2px solid rgb(0, 23, 128); */
     height: 100%;
     width: 50%;
     /* width: 750px; */
@@ -390,7 +390,7 @@ nav span:nth-child(2) {
 
 .raj2 {
     height: 80vh;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     background-color: rgb(0, 0, 0);
 }
 
@@ -405,7 +405,7 @@ nav span:nth-child(2) {
 }
 
 .main2-left {
-    border: 2px solid red;
+    /* border: 2px solid red; */
     display: flex;
     flex-direction: column;
     gap: 15px;
@@ -588,7 +588,7 @@ footer section {
     background-color: transparent;
     color: white;
     border-radius: 5px;
-    border: 1px solid white;
+    /* border: 1px solid white; */
     font: bold;
     /* margin-right: 30px; */
     height: 40px;
